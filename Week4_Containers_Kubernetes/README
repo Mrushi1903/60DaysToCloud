@@ -1,0 +1,22 @@
+Week4_Containers_Kubernetes
+
+Goal
+
+Learn how to containerize and orchestrate applications.
+
+Topics to Learn
+	•	Docker: images, containers, Dockerfiles, volumes.
+	•	Kubernetes: pods, deployments, services, ingress.
+	•	Registries (Docker Hub, ECR, ACR, GCR).
+
+Practice Resources
+
+https://labs.play-with-docker.com/
+https://github.com/docker/labs/tree/master/beginner
+https://minikube.sigs.k8s.io/docs/start/
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
+What Won’t Work
+
+Jumping to managed Kubernetes before you’ve run Minikube locally.

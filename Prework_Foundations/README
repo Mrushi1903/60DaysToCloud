@@ -1,0 +1,57 @@
+# Prework Foundations
+
+This directory contains the Prework Foundations track for the 60DaysToCloud program. Each week has its own set of steps to follow; with topics, free resources and notes to follow. Also some mini projects that you can build.
+
+Structure:
+- Week1_Cloud_Foundations
+- Week2_Linux_Networking
+- Week3_Infrastructure_as_Code
+- Week4_Containers_Kubernetes
+- Week5_CICD_Pipelines
+- Week6_Cloud_Security
+- Week7_Monitoring_AIOps
+- Week8_Final_Project
+
+How to use:
+- Each week contains a README with goals, suggested contents, and pointers to labs, examples, and templates..
+- Use examples/ and templates/ for reusable code and configuration.
+- Contribute new content by opening a pull request against the chore/add-weekly-folders branch (or main if you prefer).
+
+
+
+Goal
+
+Before diving into cloud services, build a strong base around Linux, Git, Networking, and Cloud models.
+These will make every upcoming week easier and more meaningful.
+
+Topics to Learn
+	•	Linux: file system, permissions, common commands, services, and logs.
+	•	Git & GitHub: commits, branches, pull requests, and merge workflows.
+	•	Networking: IP, DNS, ports, routing, and firewalls.
+	•	SDLC: how code moves from development → testing → deployment.
+	•	Cloud Models: IaaS vs PaaS vs SaaS and usage-based billing.
+
+Practice Resources
+
+Linux:
+https://kodekloud.com/courses/linux-basics/
+https://overthewire.org/wargames/bandit/
+
+Git & GitHub:
+https://learngitbranching.js.org/
+
+Networking Basics:
+https://explore.skillbuilder.aws/learn/course/11558/aws-networking-fundamentals
+
+Cloud Models:
+https://cloud.google.com/training/cloud-digital-leader
+
+What Won’t Work
+
+Watching tutorials without typing commands.
+You learn these concepts by breaking and fixing them yourself.
+
+
+License and attribution:
+- Add licensing information at the repository root if required.
+- Credit external resources in each week's resources.md file.

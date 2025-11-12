@@ -1,0 +1,34 @@
+Week1_Cloud_Foundations
+
+Goal
+
+Understand how the cloud actually works — from regions to IAM to billing.
+
+Topics to Learn
+	•	Virtualization and hypervisors.
+	•	Regions and Availability Zones (redundancy & fault tolerance).
+	•	Core services: compute, storage, networking, IAM.
+	•	Pricing models and billing dashboards.
+
+Practice Resources
+
+AWS:
+https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
+
+Azure:
+https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal
+
+GCP:
+https://www.cloudskillsboost.google/paths/15
+https://cloud.google.com/storage/docs/hosting-static-website
+
+OCI:
+https://learn.oracle.com/ols/course/oracle-cloud-infrastructure-foundations/35673
+https://docs.oracle.com/en-us/iaas/Content/Object/Tasks/usingcloudshellforhosting.htm
+
+What Won’t Work
+
+Jumping straight into certifications or videos without touching the console.
+Open the dashboard, create, and delete — that’s how it clicks.

@@ -1,0 +1,23 @@
+# Week6 Cloud Security
+
+Goal
+
+Secure identities, data, and infrastructure.
+
+Topics to Learn
+	•	IAM roles, policies, and least privilege.
+	•	Secrets management, encryption, and auditing.
+	•	CloudTrail and compliance basics.
+
+Practice Resources
+
+https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+https://docs.aws.amazon.com/secretsmanager/latest/userguide/tutorials_basic.html
+https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
+https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-create-and-update-a-trail.html
+https://owasp.org/www-project-cloud-security/
+
+What Won’t Work
+
+Using admin roles for everything.
+If you can’t explain “least privilege,” you’re doing security wrong.
